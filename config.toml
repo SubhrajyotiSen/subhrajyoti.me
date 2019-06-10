@@ -1,0 +1,24 @@
+baseURL = "https://subhrajyoti.me"
+languageCode = "en-us"
+title = "SubhrajyotiSen"
+theme = "hello-friend-ng"
+
+disableRSS = false
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
