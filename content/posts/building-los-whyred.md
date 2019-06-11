@@ -16,6 +16,13 @@ highlight = "true"
 Before starting out the procedure, I would hihgly recommend building it on a high-spec VPS and not on your personal computer. You could try out the free-trial of Google Cloud Platform.
 The guide will assume you are on a Linux system. Please don't try building on any other OS
 
+## Installing required tools and libraries
+For this I recommend using the scripts from Akhil Narang's [script](https://github.com/akhilnarang/scripts) repo.
+I personally use a Ubuntu on a build server. So I will execute [android_build_env.sh](https://github.com/akhilnarang/scripts/blob/master/setup/android_build_env.sh) script.
+```
+sh setup/android_build_env.sh
+```
+
 ## Syncing the sources
 You can find the syncing instructions on the [LineageOS android repo](https://github.com/LineageOS/android).
 
