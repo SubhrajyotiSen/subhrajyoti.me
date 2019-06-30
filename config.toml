@@ -13,6 +13,27 @@ disableRSS = false
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  description = "Subhrajyoti Sen's website"
+
+  homeSubtitle = "Android Engineer"
+
+# Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/iamsubhrajyoti"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:subhrajyoti12@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/SubhrajyotiSen"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/subhrajyotisen/"
+
 [menu]
   [[menu.main]]
     identifier = "about"
