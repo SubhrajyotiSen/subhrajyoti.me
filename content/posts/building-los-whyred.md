@@ -80,6 +80,15 @@ If all goes well, you will get a success message and your build should be availa
 
 If you get errors along the way, in most cases a direct Google search should help fix yours error. 
 
+## Signing your build
+The LineageOS Wiki has detailed steps to [Sign your build](https://wiki.lineageos.org/signing_builds.html). So no point in repeating them here.
+ 
+## Building Lineage Recovery
+If you insist on building and using Lineage recovery, here are the steps
 
-  
+```bash
+. build/envsetup.sh
+lunch lineage_whyred-userdebug
+make recoveryimage -j8
+```
 
