@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["personal"]
 date = 2017-03-11T18:30:00Z
 description = "A short poem abou somet strangers in our lives"
 highlight = "false"
-tags = []
+tags = ["poem"]
 title = "Strangers"
 
 +++
