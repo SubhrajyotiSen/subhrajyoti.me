@@ -13,7 +13,7 @@ I have never really done a year in review before. The reason being that I never 
 
 (Yes, that was an intentional typo :P)
 
-![](/2016_graph.png)
+![](/uploads/2016_graph.png)
 
 The best about the year was my GitHub contributions graph. I went from 0 contributions in 2015 to 609 in 2016. I also contributed to multiple Open Source projects throughout the year (HacktoberFest being a special bonus).  
 I was also able to publish my first Android Library [PasswordView](https://github.com/SubhrajyotiSen/PasswordView) which seemed to have gotten a decent response.
