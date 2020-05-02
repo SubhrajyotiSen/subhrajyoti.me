@@ -3,7 +3,7 @@ categories = []
 date = 2016-02-28T18:30:00Z
 description = ""
 highlight = ""
-tags = []
+tags = ["git"]
 title = "Git, what and why?"
 
 +++
