@@ -21,4 +21,5 @@ fields:
   name: highlight
   label: highlight
 pages:
+- content/posts/share-image-along-with-caption-on-whatsapp.md
 - content/posts/strangers.md
