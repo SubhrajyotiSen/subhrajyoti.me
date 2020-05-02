@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["mozilla"]
 date = 2015-10-19T18:30:00Z
 description = "Experience of representing Mozilla at inGenius 2015"
 highlight = ""
