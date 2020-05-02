@@ -2,7 +2,6 @@
 categories = []
 date = 2016-02-28T18:30:00Z
 description = ""
-draft = true
 highlight = ""
 tags = []
 title = "Git, what and why?"
