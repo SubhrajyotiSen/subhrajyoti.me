@@ -1,6 +1,6 @@
 +++
 categories = ["tutorial"]
-date = ""
+date = 2017-01-03T18:30:00Z
 description = "A short tutorial on how to programatically share images on WhatsApp along with a caption"
 highlight = ""
 tags = ["android"]
