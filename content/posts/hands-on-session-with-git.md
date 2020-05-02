@@ -1,9 +1,9 @@
 +++
-categories = []
+categories = ["mozilla"]
 date = 2016-03-18T18:30:00Z
 description = ""
 highlight = ""
-tags = []
+tags = ["git"]
 title = "Hands-on Session with Git"
 
 +++
