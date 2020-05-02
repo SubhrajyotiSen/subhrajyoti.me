@@ -22,6 +22,7 @@ fields:
   label: highlight
 pages:
 - content/posts/2016-a-year-in-review.md
+- content/posts/git-what-and-why.md
 - content/posts/mozilla-advocacy-workshop.md
 - content/posts/mozilla-at-ingenius-2015.md
 - content/posts/share-image-along-with-caption-on-whatsapp.md
