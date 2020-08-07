@@ -34,6 +34,6 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "frame-ancestors https://subhrajyoti.me"
+    Content-Security-Policy = "default-src https://subhrajyoti.me"
 
 
