@@ -43,3 +43,7 @@ disableRSS = false
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "public-speaking"
+    name       = "Public Speaking"
+    url        = "/public-speaking"
