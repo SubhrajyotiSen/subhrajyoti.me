@@ -13,28 +13,38 @@ So I thought of sharing my answer here so that it can help out others.
 
 We start by creating an ACTION_SEND Intent since the Intent sends data
 
-    Intent intent = new Intent();
-    intent.setAction(Intent.ACTION_SEND);
+```java
+Intent intent = new Intent();
+intent.setAction(Intent.ACTION_SEND);
+```
 
 We set the Intent type to image since we are primarily sending an image
 
-    intent.setType("image/*");
+```java
+intent.setType("image/*");
+```
 
 The main part comes now. We need to specify in our Intent that it is meant for WhatsApp only. We can do this by specifying the package name through the setPackage() method
 
-    intent.setPackage("com.whatsapp");
+```java
+intent.setPackage("com.whatsapp");
+```
 
 Now we need to specify the image and message to be shared. We specify an URI to the required image.
 
-    intent.putExtra(Intent.EXTRA_STREAM,Uri.parse("file:///sdcard/wa.jpeg"));
-    intent.putExtra(Intent.EXTRA_TEXT, your_message);
+```java
+intent.putExtra(Intent.EXTRA_STREAM,Uri.parse("file:///sdcard/wa.jpeg"));
+intent.putExtra(Intent.EXTRA_TEXT, your_message);
+```
 
 And finally, fire up the Intent.
 
-    try {
-    startActivity(i);
-    } catch (android.content.ActivityNotFoundException e) {
-    Log.d("TAG", "WhatsApp has not been installed");
-    }
+```java
+try {
+  startActivity(i);
+} catch (android.content.ActivityNotFoundException e) {
+  Log.d("TAG", "WhatsApp has not been installed");
+}
+```
 
 We use a try catch block to handle cases where WhatsApp is not available on the device.
