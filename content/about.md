@@ -7,7 +7,7 @@ tags = ["personal"]
 title = "About Me"
 
 +++
-Hey there :) I am an Android Developer currently working at [KeepTruckin](https://keeptruckin.com/ "KeepTruckin"). Prior to this, I lead the team building the [Tickertape](https://www.tickertape.in) Android app. I am also an Open Source enthusiast and an active contributor. One of the biggest projects I worked on is [Firefox Focus](https://github.com/mozilla-mobile/focus-android/commits?author=SubhrajyotiSen). For more details on my career, you can take a look at my [resume](subhrajyoti.me/resume.pdf).
+Hey there :) I am an Android Developer currently working at [KeepTruckin](https://keeptruckin.com/ "KeepTruckin"). Prior to this, I lead the team building the [Tickertape](https://www.tickertape.in) Android app. I am also an Open Source enthusiast and an active contributor. One of the biggest projects I worked on is [Firefox Focus](https://github.com/mozilla-mobile/focus-android/commits?author=SubhrajyotiSen). For more details on my career, you can take a look at my [resume](https://subhrajyoti.me/resume.pdf).
 
 I used to conduct research on recognizing handwritten Kannada documents. You can find one of the papers on [IEEEXplore](https://ieeexplore.ieee.org/document/9012531 "IEEE Xplore").
 
