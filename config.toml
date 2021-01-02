@@ -17,6 +17,9 @@ disableRSS = false
 
   homeSubtitle = "Android Engineer"
 
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
 # Social icons
   [[params.social]]
     name = "twitter"
