@@ -2,7 +2,6 @@
 categories = []
 date = 2019-04-22T18:30:00Z
 description = ""
-draft = true
 highlight = ""
 tags = []
 title = "Adding support YouTube unofficial clients to Dank"
