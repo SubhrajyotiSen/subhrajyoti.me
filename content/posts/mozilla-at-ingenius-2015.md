@@ -9,7 +9,7 @@ title = "Mozilla at inGenius 2015"
 +++
 So it had been some time since I had become a FSA and was really looking forward toward an activity outside my college. As luck would have it, Firefox Developer Edition was one of the sponsors for inGenius 2015 organized by PESIT (South Campus), Bangalore.
 
-A few members from our club had been invited to the hackathon as mentors. Now the word ‘mentor’ itself makes it all the more interesting.
+A few members from our club had been invited to the hackathon as mentors. Now the word ‘mentor’ itself makes it all the more interesting. I was invited to mentor teams on Android as well as open source technologies.
 
 The day started with us reaching PESIT and getting a spot to set up our stall. The RALs (Regional Ambassador Lead) Abhiram, Akshay and Karthic joined us there. We were soon ready to get started. The event started off with Kaustav speaking to the participants about Firefox Developer Edition and Abhiram on the FSA program.
 
@@ -23,7 +23,7 @@ The response was amazing. We had around 70 students signing up as FSA right afte
 
 ![](/uploads/12045620_10207772565818065_8886259931049038627_o.jpg)
 
-From time to time, various hackers approached us to know more about Mozilla and the FSA program. It was really good to see so many interested people. We later went around and talked to many teams regarding their projects and helping them with their queries and small issues. Some of the teams had really innovative ideas.
+From time to time, various hackers approached us to know more about Mozilla and the FSA program. It was really good to see so many interested people. We later went around and talked to many teams regarding their projects and helping them with their queries and small issues. Some of the teams had really innovative ideas.By the end of the day, I had been able to mentor 5 team on various aspects of their Android apps.
 
 ![](/uploads/12140208_10207773373598259_5793051195472324314_o.jpg)
 
