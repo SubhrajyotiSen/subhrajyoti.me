@@ -22,6 +22,7 @@ fields:
   label: highlight
 pages:
 - content/posts/2016-a-year-in-review.md
+- content/posts/adding-support-youtube-unofficial-clients-to-dank.md
 - content/posts/git-what-and-why.md
 - content/posts/hands-on-session-with-git.md
 - content/posts/maker-part-16-day-1.md
