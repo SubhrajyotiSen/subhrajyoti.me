@@ -34,7 +34,7 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline';"
+    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' googletagmanager.com 'unsafe-inline';"
     X-Content-Type-Options = "nosniff"
 
 
