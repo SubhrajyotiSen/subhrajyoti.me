@@ -2,6 +2,7 @@ baseURL = "https://subhrajyoti.me"
 languageCode = "en-us"
 title = "SubhrajyotiSen"
 theme = "hello-friend-ng"
+googleAnalytics = "G-YW5C4D2DZ7"
 
 disableRSS = false
 [params]
