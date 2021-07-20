@@ -24,18 +24,18 @@ Whenever possible, I try my best to share my learning by speaking at conferences
    * Link: [https://www.youtube.com/watch?v=Kat85LmCpeg](https://www.youtube.com/watch?v=Kat85LmCpeg "https://www.youtube.com/watch?v=Kat85LmCpeg")
    * Slides: [https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint](https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint "https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint")
 2. 360|AnDev 2020 - Where Did My State Go?
-   * Link: [https://360andev.com/session-recordings/?vimeography_gallery=3&vimeography_video=443172092](https://www.youtube.com/watch?v=Kat85LmCpeg "https://www.youtube.com/watch?v=Kat85LmCpeg")
+   * Link: [https://360andev.com/session-recordings/?vimeography_gallery=3&vimeography_video=443172092](https://360andev.com/session-recordings/?vimeography_gallery=3&vimeography_video=443172092 "https://360andev.com/session-recordings/?vimeography_gallery=3&vimeography_video=443172092")
    * Slides: [https://speakerdeck.com/subhrajyotisen/where-did-my-state-go](https://speakerdeck.com/subhrajyotisen/where-did-my-state-go "https://speakerdeck.com/subhrajyotisen/where-did-my-state-go")
 3. Kotlin Mumbai - Building a better codebase with Lint
    * Link: [https://www.youtube.com/watch?v=8Jib-sA9Ls4](https://www.youtube.com/watch?v=8Jib-sA9Ls4 "https://www.youtube.com/watch?v=8Jib-sA9Ls4")
-   * Slides: [https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-kotlin-mumbai](https://www.youtube.com/watch?v=8Jib-sA9Ls4 "https://www.youtube.com/watch?v=8Jib-sA9Ls4")
+   * Slides: [https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-kotlin-mumbai](https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-kotlin-mumbai "https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-kotlin-mumbai")
 4. Android Stream Days 2020 - Where Did My State Go?
-   * Link: [https://www.youtube.com/watch?v=EaW-27DRRwQ](https://www.youtube.com/watch?v=Kat85LmCpeg "https://www.youtube.com/watch?v=Kat85LmCpeg")
+   * Link: [https://www.youtube.com/watch?v=EaW-27DRRwQ](https://www.youtube.com/watch?v=EaW-27DRRwQ "https://www.youtube.com/watch?v=EaW-27DRRwQ")
 5. Droidcon Americas 2020 - Building a better code with Lint
-   * Link: [https://www.droidcon.com/media-detail?video=481186059](https://www.youtube.com/watch?v=Kat85LmCpeg "https://www.youtube.com/watch?v=Kat85LmCpeg")
+   * Link: [https://www.droidcon.com/media-detail?video=481186059](https://www.droidcon.com/media-detail?video=481186059 "https://www.droidcon.com/media-detail?video=481186059")
    * Slides: [https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-americas](https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-americas "https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-americas")
 6. Droidcon APAC 2020 - Building a Better Codebase with Lint
-   * Link: [https://www.droidcon.com/media-detail?video=491026369](https://www.youtube.com/watch?v=Kat85LmCpeg "https://www.youtube.com/watch?v=Kat85LmCpeg")
+   * Link: [https://www.droidcon.com/media-detail?video=491026369](https://www.droidcon.com/media-detail?video=491026369 "https://www.droidcon.com/media-detail?video=491026369")
    * Slides: [https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-apac](https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-apac "https://speakerdeck.com/subhrajyotisen/building-a-better-codebase-with-lint-droidcon-apac")
 7. WomeWhoCode Mobile - Where Did My State Go?
    * Slides: [https://speakerdeck.com/subhrajyotisen/where-did-my-state-go-wwc-mobile](https://speakerdeck.com/subhrajyotisen/where-did-my-state-go-wwc-mobile "https://speakerdeck.com/subhrajyotisen/where-did-my-state-go-wwc-mobile")
