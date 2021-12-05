@@ -51,7 +51,3 @@ disableRSS = false
     identifier = "public-speaking"
     name       = "Public Speaking"
     url        = "/public-speaking"
-  [[menu.main]]
-    identifier = 'mentoring'
-    name       = "Mentoring"
-    url        = "https://calendly.com/subhrajyotisen"
