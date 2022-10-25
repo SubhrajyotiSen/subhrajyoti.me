@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Subhrajyoti Sen</title>
+    <link>https://subhrajyoti.me/tags/android/</link>
+    <description>Recent content in android on Subhrajyoti Sen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://subhrajyoti.me/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build LineageOS for Redmi Note 5 Pro</title>
+      <link>https://subhrajyoti.me/posts/building-los-whyred/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/building-los-whyred/</guid>
+      <description>Before starting out the procedure, I would hihgly recommend building it on a high-spec VPS and not on your personal computer. You could try out the free-trial of Google Cloud Platform. The guide will assume you are on a Linux system. Please don&amp;rsquo;t try building on any other OS
+Installing required tools and libraries For this I recommend using the scripts from Akhil Narang&amp;rsquo;s script repo. I personally use a Ubuntu on a build server.</description>
+    </item>
+    
+    <item>
+      <title>Share image along with caption on WhatsApp</title>
+      <link>https://subhrajyoti.me/posts/share-image-along-with-caption-on-whatsapp/</link>
+      <pubDate>Tue, 03 Jan 2017 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/share-image-along-with-caption-on-whatsapp/</guid>
+      <description>So I came across thisquestion on StackOverflow asking how one can share an image on WhatsApp along with a caption. Before the question could be answered, two users incorrectly marked it as a duplicate.
+So I thought of sharing my answer here so that it can help out others.
+We start by creating an ACTION_SEND Intent since the Intent sends data
+Intent intent = new Intent(); intent.setAction(Intent.ACTION_SEND); We set the Intent type to image since we are primarily sending an image</description>
+    </item>
+    
+  </channel>
+</rss>

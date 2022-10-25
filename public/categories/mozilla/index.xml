@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mozilla on Subhrajyoti Sen</title>
+    <link>https://subhrajyoti.me/categories/mozilla/</link>
+    <description>Recent content in mozilla on Subhrajyoti Sen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2016 18:30:00 +0000</lastBuildDate><atom:link href="https://subhrajyoti.me/categories/mozilla/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maker Part ’16 – Day 1</title>
+      <link>https://subhrajyoti.me/posts/maker-part-16-day-1/</link>
+      <pubDate>Thu, 28 Jul 2016 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/maker-part-16-day-1/</guid>
+      <description>We, the members of Avant- Garde Mozilla Club, host a Maker Party recently in Bangalore with kids from 5th and 6th grade
+The party was planned in two sessions
+ Day 1: Basics of Computer Networking and terminology Day 2: Basics of HTML. Build a website that the kids draw on paper. Remix a new website using X-Ray Goggles.  Here is the planning doc for the event
+Since kids of all ages (even grown ups) play video games, we figured that it would be an ideal topic for an ice-breaker session.</description>
+    </item>
+    
+    <item>
+      <title>Hands-on Session with Git</title>
+      <link>https://subhrajyoti.me/posts/hands-on-session-with-git/</link>
+      <pubDate>Fri, 18 Mar 2016 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/hands-on-session-with-git/</guid>
+      <description>So a few members of our club started brainstorming on ideas for the next event by MVIT Mozillans. We had already discussed many possibilities such workshops on Java, Python etc when one of us suggested a hands-on session with git. Since git is at the heart of Open Source and is a tool that every programmer should be aware of and use, the idea instantly clicked with the entire team. And so it was decided.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla Advocacy Workshop</title>
+      <link>https://subhrajyoti.me/posts/mozilla-advocacy-workshop/</link>
+      <pubDate>Sun, 31 Jan 2016 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/mozilla-advocacy-workshop/</guid>
+      <description>It all started with the vision of keeping the Web Open. But as with any other such awesome thing, the Web too comes under threat from time to time. Such a threat was the issue of ‘Tiered Network Access‘ in India. What this threat made me realize is the importance of advocacy and spreading awareness but an Open Web. So when I heard that there was going to be a workshop on the same, I just had to attend it.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla at inGenius 2015</title>
+      <link>https://subhrajyoti.me/posts/mozilla-at-ingenius-2015/</link>
+      <pubDate>Mon, 19 Oct 2015 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/mozilla-at-ingenius-2015/</guid>
+      <description>So it had been some time since I had become a FSA and was really looking forward toward an activity outside my college. As luck would have it, Firefox Developer Edition was one of the sponsors for inGenius 2015 organized by PESIT (South Campus), Bangalore.
+A few members from our club had been invited to the hackathon as mentors. Now the word ‘mentor’ itself makes it all the more interesting. I was invited to mentor teams on Android as well as open source technologies.</description>
+    </item>
+    
+  </channel>
+</rss>

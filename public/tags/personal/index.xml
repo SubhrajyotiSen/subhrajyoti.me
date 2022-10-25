@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Subhrajyoti Sen</title>
+    <link>https://subhrajyoti.me/tags/personal/</link>
+    <description>Recent content in personal on Subhrajyoti Sen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://subhrajyoti.me/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://subhrajyoti.me/about/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/about/</guid>
+      <description>Hey there :) I am an Android Developer currently working at KeepTruckin. Prior to this, I lead the team building the Tickertape Android app. I am also an Open Source enthusiast and an active contributor. One of the biggest projects I worked on is Firefox Focus. For more details on my career, you can take a look at my resume.
+I used to conduct research on recognizing handwritten Kannada documents. You can find one of the papers on IEEEXplore.</description>
+    </item>
+    
+    <item>
+      <title>Public Speaking</title>
+      <link>https://subhrajyoti.me/public-speaking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/public-speaking/</guid>
+      <description>Whenever possible, I try my best to share my learning by speaking at conferences. I have been very fortunate to be able to speak at multiple international conferences and meetups.
+2021  Android Worldwide 2021- Journey Of Time  Video: https://www.youtube.com/watch?v=pVbcFFM6jFs&amp;amp;feature=youtu.be Slides: https://speakerdeck.com/subhrajyotisen/journey-of-time   BlrDroid Jan 2021 - Demystifying Styles and Themes  Video: https://www.youtube.com/watch?v=T3TvE2-efPo Slides: https://speakerdeck.com/subhrajyotisen/demystifying-styles-and-themes    2020  BlrDroid May 2020 - Building a better codebase with Lint  Link: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

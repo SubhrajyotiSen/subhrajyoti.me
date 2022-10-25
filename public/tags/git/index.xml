@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Subhrajyoti Sen</title>
+    <link>https://subhrajyoti.me/tags/git/</link>
+    <description>Recent content in git on Subhrajyoti Sen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2016 18:30:00 +0000</lastBuildDate><atom:link href="https://subhrajyoti.me/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hands-on Session with Git</title>
+      <link>https://subhrajyoti.me/posts/hands-on-session-with-git/</link>
+      <pubDate>Fri, 18 Mar 2016 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/hands-on-session-with-git/</guid>
+      <description>So a few members of our club started brainstorming on ideas for the next event by MVIT Mozillans. We had already discussed many possibilities such workshops on Java, Python etc when one of us suggested a hands-on session with git. Since git is at the heart of Open Source and is a tool that every programmer should be aware of and use, the idea instantly clicked with the entire team. And so it was decided.</description>
+    </item>
+    
+    <item>
+      <title>Git, what and why?</title>
+      <link>https://subhrajyoti.me/posts/git-what-and-why/</link>
+      <pubDate>Sun, 28 Feb 2016 18:30:00 +0000</pubDate>
+      
+      <guid>https://subhrajyoti.me/posts/git-what-and-why/</guid>
+      <description>Git for Designers/Developers Or anyone who really wants to use it but has no idea how to
+Writing code is hard. For every 1 minute of bliss typing characters in the computer and seeing it render things that didn’t exist before, there are 10 minutes of frustration with unreadable code and bugs that didn’t exist the night before.
+Writing code with Git is hard. Writing code without it is unthinkable. Whether you’re senior developer on a huge team or a designer who just started dabbling with front-end for personal projects, using Git will change the way you code for the best and make group collaboration enjoyable.</description>
+    </item>
+    
+  </channel>
+</rss>
