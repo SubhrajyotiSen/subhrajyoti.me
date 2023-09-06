@@ -9,6 +9,14 @@ title = "Public Speaking"
 +++
 Whenever possible, I try my best to share my learning by speaking at conferences. I have been very fortunate to be able to speak at multiple international conferences and meetups.
 
+### 2023
+
+1. Understanding WindowInsets - Google I/O Connect Bengaluru 2023
+   * Slides: [https://speakerdeck.com/subhrajyotisen/understanding-windowinsets-3ddcda44-ee95-4c2b-b6b9-1f063438db26](https://speakerdeck.com/subhrajyotisen/understanding-windowinsets-3ddcda44-ee95-4c2b-b6b9-1f063438db26)
+3. Exploring a KMM Developer’s Toolkit - BlrKotlin May 2023
+   * Video: [https://www.youtube.com/watch?v=WCIFXFwtxDU](https://www.youtube.com/watch?v=WCIFXFwtxDU)
+   * Slides: [https://speakerdeck.com/subhrajyotisen/exploring-a-kmm-developers-toolkit](https://speakerdeck.com/subhrajyotisen/exploring-a-kmm-developers-toolkit)
+  
 ### 2021
 
 1. Android Worldwide 2021- Journey Of Time
