@@ -9,13 +9,20 @@ title = "Public Speaking"
 +++
 Whenever possible, I try my best to share my learning by speaking at conferences. I have been very fortunate to be able to speak at multiple international conferences and meetups.
 
+### 2024
+
+1. An Updated Guide to Time-keeping - BlrKotlin April 2024
+   * Slides: [https://docs.google.com/presentation/d/1Ydh5bW-mO1XItFm1d2P5gNfzB-qc-6TI/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true](https://docs.google.com/presentation/d/1Ydh5bW-mO1XItFm1d2P5gNfzB-qc-6TI/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true)
+
 ### 2023
 
 1. Understanding WindowInsets - Google I/O Connect Bengaluru 2023
    * Slides: [https://speakerdeck.com/subhrajyotisen/understanding-windowinsets-3ddcda44-ee95-4c2b-b6b9-1f063438db26](https://speakerdeck.com/subhrajyotisen/understanding-windowinsets-3ddcda44-ee95-4c2b-b6b9-1f063438db26)
-3. Exploring a KMM Developer’s Toolkit - BlrKotlin May 2023
+2. Exploring a KMM Developer’s Toolkit - BlrKotlin May 2023
    * Video: [https://www.youtube.com/watch?v=WCIFXFwtxDU](https://www.youtube.com/watch?v=WCIFXFwtxDU)
    * Slides: [https://speakerdeck.com/subhrajyotisen/exploring-a-kmm-developers-toolkit](https://speakerdeck.com/subhrajyotisen/exploring-a-kmm-developers-toolkit)
+3. Deep Dive into KSP with Epoxy - BlrDroid October 2023
+   * Slides (limited since there was a live demo): [https://docs.google.com/presentation/d/1cXmHJLhFJ4tgyzoD-LLKds7Z93gtH2uh/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true](https://docs.google.com/presentation/d/1cXmHJLhFJ4tgyzoD-LLKds7Z93gtH2uh/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true)
   
 ### 2021
 
