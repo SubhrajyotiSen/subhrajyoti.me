@@ -13,7 +13,8 @@ Whenever possible, I try my best to share my learning by speaking at conferences
 
 1. An Updated Guide to Time-keeping - BlrKotlin April 2024
    * Slides: [https://docs.google.com/presentation/d/1Ydh5bW-mO1XItFm1d2P5gNfzB-qc-6TI/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true](https://docs.google.com/presentation/d/1Ydh5bW-mO1XItFm1d2P5gNfzB-qc-6TI/edit?usp=sharing&ouid=118304988146700319536&rtpof=true&sd=true)
-
+2. Compose Previews as a Power User - DevFest Chennai 2024
+   * Slides: [https://speakerdeck.com/subhrajyotisen/compose-previews-as-a-power-user](https://speakerdeck.com/subhrajyotisen/compose-previews-as-a-power-user)
 ### 2023
 
 1. Understanding WindowInsets - Google I/O Connect Bengaluru 2023
