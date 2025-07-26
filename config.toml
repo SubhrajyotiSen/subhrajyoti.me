@@ -2,7 +2,8 @@ baseURL = "https://subhrajyoti.me"
 languageCode = "en-us"
 title = "Subhrajyoti Sen"
 theme = "hello-friend-ng"
-googleAnalytics = "G-YW5C4D2DZ7"
+[services.googleAnalytics]
+  ID = "G-YW5C4D2DZ7"
 
 disableRSS = false
 [params]
