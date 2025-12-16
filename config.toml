@@ -1,54 +1,64 @@
 baseURL = "https://subhrajyoti.me"
 languageCode = "en-us"
 title = "Subhrajyoti Sen"
-theme = "hello-friend-ng"
-[services.googleAnalytics]
-  ID = "G-YW5C4D2DZ7"
+theme = "typo"
+googleAnalytics = "G-YW5C4D2DZ7"
 
-disableRSS = false
+[taxonomies]
+tag = 'tags'
+
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+# Meta description
+description = "Subhrajyoti Sen"
 
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
 
-  description = "Subhrajyoti Sen's website"
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+I am a Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+I am interested in a range of topics, including mobile apps, operating systems and public policy.
+"""
 
-  homeSubtitle = "Android Engineer"
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2 Jan 2006'
 
-  # Enable sharing buttons, if you linke
-  enableSharingButtons = true
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = true
+showCurrentPage = true
+home = "Home"
 
 # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/iamsubhrajyoti"
+[[params.social]]
+name = "twitter"
+url  = "https://twitter.com/iamsubhrajyoti"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:subhrajyoti12@gmail.com"
+[[params.social]]
+name = "github"
+url  = "https://github.com/SubhrajyotiSen"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/SubhrajyotiSen"
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/in/subhrajyotisen/"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/subhrajyotisen/"
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
+# Main menu pages
+[[params.menu]]
     name       = "About"
     url        = "/about"
-  [[menu.main]]
-    identifier = "blog"
+[[params.menu]]
     name       = "Blog"
     url        = "/posts"
-  [[menu.main]]
-    identifier = "public-speaking"
-    name       = "Public Speaking"
+[[params.menu]]
+    name       = "Public-Speaking"
     url        = "/public-speaking"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
