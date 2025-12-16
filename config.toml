@@ -55,7 +55,7 @@ url  = "https://www.linkedin.com/in/subhrajyotisen/"
     name       = "Blog"
     url        = "/posts"
 [[params.menu]]
-    name       = "Public-Speaking"
+    name       = "Speaking"
     url        = "/public-speaking"
 
 # Syntax highlight on code blocks
