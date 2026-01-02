@@ -1,0 +1,5 @@
+# Ignore the public directory's contents
+/public/*
+
+# But do not ignore the _redirects file
+!/public/_redirects
