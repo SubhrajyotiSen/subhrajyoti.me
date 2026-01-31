@@ -9,6 +9,11 @@ title = "Public Speaking"
 +++
 Whenever possible, I try my best to share my learning by speaking at conferences. I have been very fortunate to be able to speak at multiple international conferences and meetups.
 
+### 2026
+
+1. Understanding Incremental Processing in the JVM World
+   * Slides: [https://speakerdeck.com/subhrajyotisen/understanding-incremental-processing-in-the-jvm-world](https://speakerdeck.com/subhrajyotisen/understanding-incremental-processing-in-the-jvm-world)
+
 ### 2025
 
 1. Updated Lessons from a KMP Developer's Toolkit - BlrDroid May 2025
