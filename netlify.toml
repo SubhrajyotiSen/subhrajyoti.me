@@ -34,11 +34,29 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "default-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline'; script-src 'self' www.googletagmanager.com www.google-analytics.com 'unsafe-inline';"
     X-Content-Type-Options = "nosniff"
+    Content-Security-Policy = "default-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; script-src 'self' www.googletagmanager.com www.google-analytics.com 'unsafe-inline';"
 
 [[redirects]]
   from = "/countries"
+  to = "/countries/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/countries/"
   to = "https://visited-countries-subh.netlify.app/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/countries/index.html"
+  to = "https://visited-countries-subh.netlify.app/"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/countries/*"
+  to = "https://visited-countries-subh.netlify.app/:splat"
   status = 200
   force = true
