@@ -39,13 +39,13 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "/countries"
-  to = "/countries/"
+  to = "/countries/index.html"
   status = 301
   force = true
 
 [[redirects]]
   from = "/countries/"
-  to = "https://visited-countries-subh.netlify.app/"
+  to = "/countries/index.html"
   status = 200
   force = true
 
