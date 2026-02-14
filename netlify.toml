@@ -37,4 +37,8 @@ HUGO_ENABLEGITINFO = "true"
     Content-Security-Policy = "default-src 'self' www.google-analytics.com; style-src 'self' 'unsafe-inline'; script-src 'self' www.googletagmanager.com www.google-analytics.com 'unsafe-inline';"
     X-Content-Type-Options = "nosniff"
 
-
+[[redirects]]
+  from = "/countries"
+  to = "https://visited-countries-subh.netlify.app/"
+  status = 200
+  force = true
